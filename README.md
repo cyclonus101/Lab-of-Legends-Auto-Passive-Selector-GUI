@@ -1,6 +1,13 @@
 # Lab of Legends - Auto Passive Scummer GUI Edition
  Auto Passive Scummer
 
+
+UPDATE JUNE 2/21
+
+Riot changed the GUI so that you can infinite reroll passives.
+This means that this script is now useless
+I will be keeping it up for historical reasons, do not expect any updates.
+
 created by cyclonus101
 
 Launched May 1/21
